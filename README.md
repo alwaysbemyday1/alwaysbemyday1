@@ -1,4 +1,7 @@
-### Hi there 👋
+Studied in 🦁Likelion 9th && 10th
+
+Interested in Python, Django(DRF)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysbemyday1&show_icons=true&theme=graywhite)
 
 
