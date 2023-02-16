@@ -2,7 +2,8 @@
   Studied in
   <br>
   <b>🦁Likelion 9th && 10th</b>
-  <br>
+</div>
+<div>
   Interested in
   <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
