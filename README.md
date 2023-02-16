@@ -1,9 +1,9 @@
 <div>
-  <h3>Studied in</h3>
+  <h3 style="color:#3784ee;">Studied in</h3>
   <b>🦁Likelion 9th && 10th</b>
 </div>
 <div>
-  <h3>Interested in</h3>
+  <h3 style="color:#3784ee;">Interested in</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
