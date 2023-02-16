@@ -2,7 +2,6 @@
   <h3>Studied in</h3>
   <b>🦁Likelion 9th && 10th</b>
 </div>
-<br>
 <div>
   <h3>Interested in</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
