@@ -1,4 +1,8 @@
-Studied in **🦁Likelion 9th && 10th**
+<div>
+  Studied in
+  <br>
+  <b>🦁Likelion 9th && 10th</b>
+</div>
 
 <div>
   Interested in
