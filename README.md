@@ -1,7 +1,6 @@
 <div>
   <h3 style="color:#3784ee;">Studied in</h3>
   <b>🦁Likelion 9th && 10th</b>
-  <img alt="Python" src ="🦁?&style=for-the-badge&logo=멋쟁이사자처럼 9기 & 10기&logoColor=white"/>
 </div>
 <div>
   <h3 style="color:#3784ee;">Interested in</h3>
